@@ -106,7 +106,7 @@ export default {
     };
     return {
       User: {
-        phone: "18582482878",
+        phone: "",
         password: "",
       },
       rules: {
